@@ -1,0 +1,9 @@
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\bin\x64\Debug\ClassLibrary1.dll
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\bin\x64\Debug\ClassLibrary1.pdb
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\bin\x64\Debug\ClassLibrary1.xml
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\obj\x64\Debug\ClassLibrary1.Resources.resources
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\obj\x64\Debug\TextureBG-1.vbproj.GenerateResource.cache
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\obj\x64\Debug\TextureBG-1.vbproj.CoreCompileInputs.cache
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\obj\x64\Debug\ClassLibrary1.dll
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\obj\x64\Debug\ClassLibrary1.xml
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\ClassLibrary1\obj\x64\Debug\ClassLibrary1.pdb

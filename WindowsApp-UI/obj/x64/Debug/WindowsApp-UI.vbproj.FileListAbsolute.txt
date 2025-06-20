@@ -1,0 +1,16 @@
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\bin\x64\Debug\WindowsApp-UI.exe.config
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\bin\x64\Debug\WindowsApp-UI.exe
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\bin\x64\Debug\WindowsApp-UI.pdb
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\bin\x64\Debug\WindowsApp-UI.xml
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp-UI.vbprojAssemblyReference.cache
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp1.Resources.resources
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp-UI.vbproj.GenerateResource.cache
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp-UI.vbproj.CoreCompileInputs.cache
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp-UI.exe
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp-UI.xml
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp-UI.pdb
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\bin\x64\Debug\ClassLibrary1.dll
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\bin\x64\Debug\ClassLibrary1.pdb
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\bin\x64\Debug\ClassLibrary1.xml
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp-UI.vbproj.CopyComplete
+C:\Users\speec\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApp-UI\WindowsApp-UI\obj\x64\Debug\WindowsApp1.MainForm.resources
