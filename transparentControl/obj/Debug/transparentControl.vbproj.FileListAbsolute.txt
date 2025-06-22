@@ -1,0 +1,9 @@
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\bin\Debug\transparentControl.dll
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\bin\Debug\transparentControl.pdb
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\bin\Debug\transparentControl.xml
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\obj\Debug\transparentControl.Resources.resources
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\obj\Debug\transparentControl.vbproj.GenerateResource.cache
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\obj\Debug\transparentControl.vbproj.CoreCompileInputs.cache
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\obj\Debug\transparentControl.dll
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\obj\Debug\transparentControl.xml
+C:\Users\speec\Desktop\WindowsApp-UI\transparentControl\obj\Debug\transparentControl.pdb
