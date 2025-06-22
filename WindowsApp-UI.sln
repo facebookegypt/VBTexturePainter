@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApp-UI", "WindowsApp
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TextureBG-1", "ClassLibrary1\TextureBG-1.vbproj", "{682D2DCA-5B56-4126-8621-FC2198C67273}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "transparentControl", "transparentControl\transparentControl.vbproj", "{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{682D2DCA-5B56-4126-8621-FC2198C67273}.Release|Any CPU.Build.0 = Release|Any CPU
 		{682D2DCA-5B56-4126-8621-FC2198C67273}.Release|x64.ActiveCfg = Release|x64
 		{682D2DCA-5B56-4126-8621-FC2198C67273}.Release|x64.Build.0 = Release|x64
+		{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}.Debug|x64.Build.0 = Debug|Any CPU
+		{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}.Release|x64.ActiveCfg = Release|Any CPU
+		{1C5ECDCB-0272-4D65-A6BC-5A7BC392AD85}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

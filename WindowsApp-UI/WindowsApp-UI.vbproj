@@ -147,6 +147,10 @@
       <Project>{682d2dca-5b56-4126-8621-fc2198c67273}</Project>
       <Name>TextureBG-1</Name>
     </ProjectReference>
+    <ProjectReference Include="..\transparentControl\transparentControl.vbproj">
+      <Project>{1c5ecdcb-0272-4d65-a6bc-5a7bc392ad85}</Project>
+      <Name>transparentControl</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
