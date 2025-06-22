@@ -98,5 +98,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 👤 Author
 
 **[Your Name]**  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-Upwork: [Your Upwork Profile URL]
+GitHub: [https://github.com/facebookegypt](https://github.com/facebookegypt)  
+Upwork: [https://www.upwork.com/freelancers/~012da5549a3c293425]
